@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://pixy.org/src2/620/6202603.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
